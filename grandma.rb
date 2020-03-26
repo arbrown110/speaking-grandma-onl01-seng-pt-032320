@@ -15,4 +15,3 @@ else speak_to_grandma == "WHAT?"
   puts "NO, NOT SINCE 1938!"
 end  
   
-speak_to_grandma
